@@ -1,4 +1,4 @@
-# TMDB-Movies-Exploration
+# TMDB Movies Dataset Exploration
 My submission for Udacity's second project investigating a TMDB movie data set of the data analyst nanodegree.
 
 ## Introduction
